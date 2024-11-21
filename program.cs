@@ -10,5 +10,12 @@ class Program{
         for(int i = 0; i < 10; i++){
             System.Console.WriteLine(i);
         }
+        while(true)
+        {
+            int i = 0;
+            System.Console.WriteLine(i);
+            i++;
+            if(i == 10) break;
+        }
     }
 }
