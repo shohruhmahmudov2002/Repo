@@ -16,6 +16,7 @@ class Program{
             System.Console.WriteLine(i);
             i++;
             if(i == 10) break;
+            else break;
         }
     }
 }
